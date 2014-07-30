@@ -1,8 +1,12 @@
 {
     "title": {
-        "ru": "Блог",
-        "en": "Blog"
+        "ru": "Мурся",
+        "en": "Yelena Jetpyspayeva"
     },
+    "subtitle": {
+    	"ru": "О жизни",
+    	"en": "Life-wise"
+	},
     "langs": ["ru", "en"],
     "postsPerPage": 10,
     "outputFolder": "output"

@@ -63,7 +63,8 @@ langs.forEach(function(lang) {
 
         bemtree.apply({
             block: 'root',
-            title: config.title[lang],
+            title: config.title && config.title[lang] || '',
+            subtitle: config.subtitle && config.subtitle[lang] || '',
             data: pageOfPosts,
             lang: lang,
             pagination: {
@@ -100,7 +101,8 @@ langs.forEach(function(lang) {
     tags[lang].forEach(function(tag) {
         bemtree.apply({
             block: 'root',
-            title: config.title[lang],
+            title: config.title && config.title[lang] || '',
+            subtitle: config.subtitle && config.subtitle[lang] || '',
             data: langPosts.filter(function(post) {
                 return post.meta && post.meta.tags && post.meta.tags.indexOf(tag) > -1;
             }),
@@ -118,7 +120,8 @@ langs.forEach(function(lang) {
 
         bemtree.apply({
             block: 'root',
-            title: config.title[lang],
+            title: config.title && config.title[lang] || '',
+            subtitle: config.subtitle && config.subtitle[lang] || '',
             data: page,
             lang: lang
         })
