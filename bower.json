@@ -2,7 +2,7 @@
   "name": "bem-blog",
   "version": "1.0.0",
   "description": "Static blog generator made with BEM",
-  "bugs": "https://github.com/tadatuta/bem-blog/issues",
+  "bugs": "https://github.com/tadatuta/bb/issues",
   "ignore": [
     ".bem/cache",
     "node_modules",
