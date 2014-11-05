@@ -3,6 +3,7 @@
 ## Общая информация
 
 Входные данные в папке content:
+```
     config.json
         langs — используемые языки
         users — пользователи
@@ -18,7 +19,7 @@
                 - тег1
                 - тег2
             ---
-
+```
 На выходе статика либо динамика в папке output.
 
 ## Уровни
@@ -30,7 +31,7 @@
 
 ### Контент
     grab.js собирает все content/*/*.md в output/data.json
-### Ассерты
+### Ассеты
     bem make собирает один банд index на основе index.demdecl.js
     generate.js на вход получает data.json + конфиг и генерирует bemtree->bemhtml->html
 
