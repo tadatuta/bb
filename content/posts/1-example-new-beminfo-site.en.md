@@ -1,5 +1,5 @@
 ---
-title: Brand new bem.info with node.js and bemtree inside
+title: 'Brand new bem.info with node.js and bemtree inside'
 tags:
     - News
 ---

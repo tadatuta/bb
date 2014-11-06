@@ -1,5 +1,5 @@
 ---
-title: bem-forum на замену клубу БЭМ в Я.ру
+title: 'bem-forum на замену клубу БЭМ в Я.ру'
 tags:
     - News
 ---

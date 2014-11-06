@@ -1,5 +1,5 @@
 ---
-title: Новый bem.info теперь на node.js и bemtree
+title: 'Новый bem.info теперь на node.js и bemtree'
 tags:
     - News
 ---

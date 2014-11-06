@@ -1,5 +1,5 @@
 ---
-title: Rename of 'bem-controls' to 'bem-components'
+title: 'Rename of `bem-controls` to `bem-components`'
 tags:
     - lib
 ---

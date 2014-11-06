@@ -1,5 +1,5 @@
 ---
-title: Переименование bem-controls в bem-components
+title: 'Переименование bem-controls в bem-components'
 tags:
     - lib
 ---

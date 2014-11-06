@@ -1,5 +1,5 @@
 ---
-title: Планы по разработке bem-core@v3
+title: 'Планы по разработке bem-core@v3'
 tags:
     - lib
 ---

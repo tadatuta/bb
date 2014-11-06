@@ -1,5 +1,5 @@
 ---
-title: BEMup — как это было 
+title: 'BEMup — как это было'
 tags:
     - News
     - bemup

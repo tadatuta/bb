@@ -1,5 +1,5 @@
 ---
-title: Definition of “technology” (techs)
+title: 'Definition of “technology” (techs)'
 tags:
     - techs
 ---

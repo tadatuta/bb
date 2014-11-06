@@ -1,5 +1,5 @@
 ---
-title: bem-cli launch bem-tools locally
+title: 'bem-cli launch bem-tools locally'
 tags:
     - tools
 ---

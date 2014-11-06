@@ -1,5 +1,5 @@
 ---
-title: BEMup — watch it, feel it! 
+title: 'BEMup — watch it, feel it!'
 tags:
     - News
     - bemup

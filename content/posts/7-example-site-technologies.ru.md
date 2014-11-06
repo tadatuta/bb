@@ -1,5 +1,5 @@
 ---
-title: Понятие «Технология» (technologies, techs)
+title: 'Понятие «Технология» (technologies, techs)'
 tags:
     - techs
 ---

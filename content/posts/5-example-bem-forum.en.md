@@ -1,5 +1,5 @@
 ---
-title: bem-forum to substitute BEM blog on Yandex’s blog platform Ya.ru
+title: 'bem-forum to substitute BEM blog on Yandex’s blog platform Ya.ru'
 tags:
     - News
 ---
