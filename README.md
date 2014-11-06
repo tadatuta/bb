@@ -10,6 +10,11 @@ cd bb
 npm i
 ```
 
+**Note**: You may also start with `addDefaultPages` branch to get some example pages out of the box:
+```bash
+git clone https://github.com/tadatuta/bb.git -b addDefaultPages
+```
+
 ## Rebuild and start the server
 
 ```bash
