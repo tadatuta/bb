@@ -1,0 +1,85 @@
+/* ../../themes/simple.blocks/page/page.css begin */
+.page {
+  font-family: 'Gentium Book Basic', Georgia, serif;
+  color: #444;
+  background: #ffba00;
+  margin: 0;
+  padding-top: 150px;
+}
+.page__inner {
+  width: 750px;
+  margin: auto;
+}
+/* ../../themes/simple.blocks/page/page.css end */
+/* ../../themes/simple.blocks/link/link.css begin */
+a,
+.link {
+  color: #444;
+  text-decoration: none;
+}
+a:hover,
+.link:hover {
+  color: #09b;
+}
+/* ../../themes/simple.blocks/link/link.css end */
+/* ../../themes/simple.blocks/header/header.css begin */
+.header {
+  position: relative;
+}
+.header h1 {
+  font-weight: normal;
+  font-size: 50px;
+  margin: -62px 0 0 0;
+  padding-right: 64px;
+  text-align: right;
+}
+.subtitle {
+  color: #fff;
+  font-size: 20px;
+  padding-right: 64px;
+  text-align: right;
+}
+.header a,
+.header .link {
+  color: #fff;
+}
+/* ../../themes/simple.blocks/header/header.css end */
+/* ../../themes/simple.blocks/language-switcher/language-switcher.css begin */
+.language-switcher {
+  font-size: 20px;
+  float: left;
+}
+/* ../../themes/simple.blocks/language-switcher/language-switcher.css end */
+/* ../../themes/simple.blocks/avatar/avatar.css begin */
+.avatar {
+  position: absolute;
+  right: -110px;
+  top: -45px;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  width: 150px;
+  height: 150px;
+/*background: url(https://d262ilb51hltx0.cloudfront.net/fit/c/200/200/0*-N6wxNecet4yOR92.jpg) no-repeat;
+    background-size: 100%;*/
+}
+/* ../../themes/simple.blocks/avatar/avatar.css end */
+/* ../../themes/simple.blocks/content/content.css begin */
+/* ../../themes/simple.blocks/content/content.css end */
+/* ../../themes/simple.blocks/post/post.css begin */
+.post h2 {
+  font-weight: normal;
+  font-size: 50px;
+}
+.post p {
+  font-size: 22px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+/* ../../themes/simple.blocks/post/post.css end */
+/* ../../themes/simple.blocks/footer/footer.css begin */
+/*  TODO: remove me */
+.footer {
+  height: 40px;
+}
+/* ../../themes/simple.blocks/footer/footer.css end */
